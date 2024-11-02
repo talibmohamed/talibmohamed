@@ -58,7 +58,7 @@
 ---
 
 <h3 align="left">📈 GitHub Stats:</h3>
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=talibmohamed&show_icons=true&locale=en" alt="Mohamed's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=talibmohamed&" alt="GitHub Streak" />
 </p>
