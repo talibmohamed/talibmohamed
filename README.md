@@ -7,7 +7,6 @@
 
 ---
 
-- 🔭 I’m currently working on a project to develop a website for art auctions, enabling artists to showcase and sell their artwork.
 - 🌱 I’m constantly learning and improving my knowledge in **web development, cybersecurity, and database management**.
 - 💬 Ask me about **web development with PHP and Java, integrating APIs, and data structure implementation in C**.
 - ⚡ Fun fact: I’m passionate about **19th and 20th-century rap music**, and I enjoy participating in **online gaming tournaments**.
@@ -22,7 +21,6 @@
 </p>
 
 ---
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -52,6 +50,15 @@
   </a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+<h3 align="left">🎵 Currently Listening on Spotify:</h3>
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=mohamedtalib110502&redirect=true" target="_blank">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=mohamedtalib110502&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" />
   </a>
 </p>
 
