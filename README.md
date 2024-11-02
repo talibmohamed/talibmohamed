@@ -2,15 +2,15 @@
 <h3 align="center">A Passionate Software Engineering Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=talibmohamed&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-- 🔭 I’m currently studying software engineering and working on various projects to sharpen my skills.
-- 🌱 I’m constantly learning and improving my knowledge in **web development, cybersecurity, and DevOps**.
-- 💬 Ask me about **web development, OOP in PHP and Java, data structures, and algorithms**.
-- ⚡ Fun fact: I'm also interested in **rap music from the 19th and 20th centuries** and participate in **online gaming tournaments**.
+- 🔭 I’m currently working on a project to develop a website for art auctions, enabling artists to showcase and sell their artwork.
+- 🌱 I’m constantly learning and improving my knowledge in **web development, cybersecurity, and database management**.
+- 💬 Ask me about **web development with PHP and Java, integrating APIs, and data structure implementation in C**.
+- ⚡ Fun fact: I’m passionate about **19th and 20th-century rap music**, and I enjoy participating in **online gaming tournaments**.
 
 ---
 
@@ -40,9 +40,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-  </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   </a>
@@ -55,15 +52,12 @@
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
   </a>
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40"/>
-  </a>
 </p>
 
 ---
 
 <h3 align="left">📈 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en" alt="Mohamed's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=talibmohamed&show_icons=true&locale=en" alt="Mohamed's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=talibmohamed&" alt="GitHub Streak" />
 </p>
