@@ -24,15 +24,6 @@
 ---
 
 
-- 🎧 Currently listening on Spotify:
-<p align="center">
-  <a href="https://open.spotify.com/user/mohamedtalib110502" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-username&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
-  </a>
-</p>
-
----
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
