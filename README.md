@@ -55,15 +55,6 @@
 
 ---
 
-<h3 align="left">🎵 Currently Listening on Spotify:</h3>
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=mohamedtalib110502&redirect=true" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=mohamedtalib110502&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" />
-  </a>
-</p>
-
----
-
 <h3 align="left">📈 GitHub Stats:</h3>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=talibmohamed&show_icons=true&locale=en" alt="Mohamed's GitHub Stats" />
